@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hristo Knyazov 	ichko021@abv.bg
 
 # THANKS
 
